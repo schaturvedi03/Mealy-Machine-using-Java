@@ -1,1 +1,2 @@
 # Mealy-Machine-using-Java
+Developed and implemented Mealy machine for human DNA analysis to detect Huntington’s disease that is caused by longest occurrence of CAG. The code reads the DNA sequnce and finds the longest continuous occurence of CAG and analyses the result on the basis of it. If the count of the occurence falls under a certain range then it outputs that there is a high risk of Huntington's Disease.
